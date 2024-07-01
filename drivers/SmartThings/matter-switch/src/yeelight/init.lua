@@ -15,7 +15,7 @@
 local capabilities = require "st.capabilities"
 local clusters = require "st.matter.clusters"
 local cluster_base = require "st.matter.cluster_base"
-local data_types = require "data_types"
+local data_types = require "yeelight/data_types"
 local device_lib = require "st.device"
 local utils = require "st.utils"
 local log = require "log"
