@@ -18,7 +18,7 @@ components:
           range: [ 2710, 6500 ]
   - id: colorControl
     version: 1
-  - id: amberwonder26407.lightingEffect
+  - id: mode
     version: 1
   - id: firmwareUpdate
     version: 1
@@ -26,3 +26,6 @@ components:
     version: 1
   categories:
   - name: Light
+metadata:
+  mnmn: SolutionsEngineering
+  vid: SmartThings-smartthings-Yeelight_Smart_Lamp
